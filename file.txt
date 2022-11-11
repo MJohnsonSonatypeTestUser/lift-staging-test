@@ -1,1 +1,15 @@
 Example file
+
+Add a markdown comment here
+Add a markdown code snippet here
+
+
+
+Ok let's test again.
+
+
+
+Foo
+
+
+Bar
